@@ -1,0 +1,2 @@
+rootProject.name = "eAbsen"
+include ':app'
